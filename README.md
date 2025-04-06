@@ -1,4 +1,4 @@
-# Desafios em Python
+# Desafios Scripts em Python
 
 Este repositório contém uma coleção de scripts Python desenvolvidos para resolver diversos desafios de programação, abrangendo áreas como cálculos geométricos, manipulação de dados e operações matemáticas básicas.
 
